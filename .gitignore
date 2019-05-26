@@ -1,21 +1,18 @@
 .DS_Store
 
 .idea/shelf
-
 .idea/tasks.xml
-
 .idea/workspace.xml
 
 build
-
 classes
-
 testClasses
 
 worldwind.jar
-
 worldwindx.jar
 
-/nbproject/private/
-
+gradle
+gradlew
+gradlew.bat
 .gradle
+.nb-gradle
